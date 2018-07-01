@@ -1,5 +1,4 @@
-# project_course
-our course project
+# project_course：人脸检测识别门禁系统
 本次课程项目的思路部分借鉴了：facenet、https://zhuanlan.zhihu.com/p/25025596?refer=shanren7
 
 model文件由于体积问题未能上传，请自行下载后解压在项目文件夹：下载地址：https://drive.google.com/open?id=1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz
